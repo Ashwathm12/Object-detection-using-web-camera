@@ -148,6 +148,9 @@ plt.axis('off')
 plt.show()
 
 ```
+## Output:
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/c0d827aa-9260-4d84-b2bf-288985ee7a87" />
+
 
 ## Result
 
