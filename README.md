@@ -1,4 +1,6 @@
 # Object Detection Using Web Camera
+## Name: Ashwath M
+## Register number: 212223230023
 
 ## Aim
 The main aim of this project is to **detect and recognize real-time objects** captured through a **web camera** using a pre-trained deep learning model (YOLO or OpenCV DNN). This helps demonstrate how computer vision techniques can be applied for live object recognition and tracking.
